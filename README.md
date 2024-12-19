@@ -1,6 +1,6 @@
-1) Firstly import db_ophelia.sql into your database.
+1) Firstly import db_ophelia.sql into your database. In my case PHPMyAdmin.
 
-<img width="468" alt="carrito_compra" src="https://github.com/user-attachments/assets/98f30b50-a3d4-4f6b-bf4a-05e0653b8b56" />
+<img width="604" alt="importando_database" src="https://github.com/user-attachments/assets/c489ed49-5fbb-4c2a-a2e7-366dfaa36a87" />
 
 2) You can access the main site with "index.php" 
 
